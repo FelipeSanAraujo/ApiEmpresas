@@ -1,0 +1,56 @@
+C:\Users\Felipe\Documents\Curso C# Coti\Módulo 3 - EntityFramework\Aula 18 Prática NP\EmpresasApi\EmpresasApi.Infra.Data\bin\Debug\net6.0\EmpresasApi.Infra.Data.deps.json
+C:\Users\Felipe\Documents\Curso C# Coti\Módulo 3 - EntityFramework\Aula 18 Prática NP\EmpresasApi\EmpresasApi.Infra.Data\bin\Debug\net6.0\EmpresasApi.Infra.Data.dll
+C:\Users\Felipe\Documents\Curso C# Coti\Módulo 3 - EntityFramework\Aula 18 Prática NP\EmpresasApi\EmpresasApi.Infra.Data\bin\Debug\net6.0\EmpresasApi.Infra.Data.pdb
+C:\Users\Felipe\Documents\Curso C# Coti\Módulo 3 - EntityFramework\Aula 18 Prática NP\EmpresasApi\EmpresasApi.Infra.Data\obj\Debug\net6.0\EmpresasApi.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Felipe\Documents\Curso C# Coti\Módulo 3 - EntityFramework\Aula 18 Prática NP\EmpresasApi\EmpresasApi.Infra.Data\obj\Debug\net6.0\EmpresasApi.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Documents\Curso C# Coti\Módulo 3 - EntityFramework\Aula 18 Prática NP\EmpresasApi\EmpresasApi.Infra.Data\obj\Debug\net6.0\EmpresasApi.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Felipe\Documents\Curso C# Coti\Módulo 3 - EntityFramework\Aula 18 Prática NP\EmpresasApi\EmpresasApi.Infra.Data\obj\Debug\net6.0\EmpresasApi.Infra.Data.AssemblyInfo.cs
+C:\Users\Felipe\Documents\Curso C# Coti\Módulo 3 - EntityFramework\Aula 18 Prática NP\EmpresasApi\EmpresasApi.Infra.Data\obj\Debug\net6.0\EmpresasApi.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Documents\Curso C# Coti\Módulo 3 - EntityFramework\Aula 18 Prática NP\EmpresasApi\EmpresasApi.Infra.Data\obj\Debug\net6.0\EmpresasApi.Infra.Data.dll
+C:\Users\Felipe\Documents\Curso C# Coti\Módulo 3 - EntityFramework\Aula 18 Prática NP\EmpresasApi\EmpresasApi.Infra.Data\obj\Debug\net6.0\refint\EmpresasApi.Infra.Data.dll
+C:\Users\Felipe\Documents\Curso C# Coti\Módulo 3 - EntityFramework\Aula 18 Prática NP\EmpresasApi\EmpresasApi.Infra.Data\obj\Debug\net6.0\EmpresasApi.Infra.Data.pdb
+C:\Users\Felipe\Documents\Curso C# Coti\Módulo 3 - EntityFramework\Aula 18 Prática NP\EmpresasApi\EmpresasApi.Infra.Data\obj\Debug\net6.0\ref\EmpresasApi.Infra.Data.dll
+C:\Users\Felipe\Documents\Curso C# Coti\Módulo 3 - EntityFramework\Aula 18 Prática NP\EmpresasApi\EmpresasApi.Infra.Data\bin\Debug\net6.0\EmpresasApi.Infra.Data.runtimeconfig.json
+C:\Users\Felipe\Documents\Curso C# Coti\Módulo 3 - EntityFramework\Aula 18 Prática NP\EmpresasApi\EmpresasApi.Infra.Data\obj\Debug\net6.0\EmpresasApi.Infra.Data.genruntimeconfig.cache
+C:\Users\Felipe\Documents\Curso C# Coti\Módulo 3 - EntityFramework\Aula 19 prática\EmpresasApi\EmpresasApi.Infra.Data\bin\Debug\net6.0\EmpresasApi.Infra.Data.deps.json
+C:\Users\Felipe\Documents\Curso C# Coti\Módulo 3 - EntityFramework\Aula 19 prática\EmpresasApi\EmpresasApi.Infra.Data\bin\Debug\net6.0\EmpresasApi.Infra.Data.runtimeconfig.json
+C:\Users\Felipe\Documents\Curso C# Coti\Módulo 3 - EntityFramework\Aula 19 prática\EmpresasApi\EmpresasApi.Infra.Data\bin\Debug\net6.0\EmpresasApi.Infra.Data.dll
+C:\Users\Felipe\Documents\Curso C# Coti\Módulo 3 - EntityFramework\Aula 19 prática\EmpresasApi\EmpresasApi.Infra.Data\bin\Debug\net6.0\EmpresasApi.Infra.Data.pdb
+C:\Users\Felipe\Documents\Curso C# Coti\Módulo 3 - EntityFramework\Aula 19 prática\EmpresasApi\EmpresasApi.Infra.Data\obj\Debug\net6.0\EmpresasApi.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Felipe\Documents\Curso C# Coti\Módulo 3 - EntityFramework\Aula 19 prática\EmpresasApi\EmpresasApi.Infra.Data\obj\Debug\net6.0\EmpresasApi.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Documents\Curso C# Coti\Módulo 3 - EntityFramework\Aula 19 prática\EmpresasApi\EmpresasApi.Infra.Data\obj\Debug\net6.0\EmpresasApi.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Felipe\Documents\Curso C# Coti\Módulo 3 - EntityFramework\Aula 19 prática\EmpresasApi\EmpresasApi.Infra.Data\obj\Debug\net6.0\EmpresasApi.Infra.Data.AssemblyInfo.cs
+C:\Users\Felipe\Documents\Curso C# Coti\Módulo 3 - EntityFramework\Aula 19 prática\EmpresasApi\EmpresasApi.Infra.Data\obj\Debug\net6.0\EmpresasApi.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Documents\Curso C# Coti\Módulo 3 - EntityFramework\Aula 19 prática\EmpresasApi\EmpresasApi.Infra.Data\obj\Debug\net6.0\EmpresasApi.Infra.Data.dll
+C:\Users\Felipe\Documents\Curso C# Coti\Módulo 3 - EntityFramework\Aula 19 prática\EmpresasApi\EmpresasApi.Infra.Data\obj\Debug\net6.0\refint\EmpresasApi.Infra.Data.dll
+C:\Users\Felipe\Documents\Curso C# Coti\Módulo 3 - EntityFramework\Aula 19 prática\EmpresasApi\EmpresasApi.Infra.Data\obj\Debug\net6.0\EmpresasApi.Infra.Data.pdb
+C:\Users\Felipe\Documents\Curso C# Coti\Módulo 3 - EntityFramework\Aula 19 prática\EmpresasApi\EmpresasApi.Infra.Data\obj\Debug\net6.0\EmpresasApi.Infra.Data.genruntimeconfig.cache
+C:\Users\Felipe\Documents\Curso C# Coti\Módulo 3 - EntityFramework\Aula 19 prática\EmpresasApi\EmpresasApi.Infra.Data\obj\Debug\net6.0\ref\EmpresasApi.Infra.Data.dll
+C:\Users\Felipe\Documents\Curso C# Coti\Módulo 3 - EntityFramework\Aula 20 prática\EmpresasApi\EmpresasApi.Infra.Data\bin\Debug\net6.0\EmpresasApi.Infra.Data.deps.json
+C:\Users\Felipe\Documents\Curso C# Coti\Módulo 3 - EntityFramework\Aula 20 prática\EmpresasApi\EmpresasApi.Infra.Data\bin\Debug\net6.0\EmpresasApi.Infra.Data.runtimeconfig.json
+C:\Users\Felipe\Documents\Curso C# Coti\Módulo 3 - EntityFramework\Aula 20 prática\EmpresasApi\EmpresasApi.Infra.Data\bin\Debug\net6.0\EmpresasApi.Infra.Data.dll
+C:\Users\Felipe\Documents\Curso C# Coti\Módulo 3 - EntityFramework\Aula 20 prática\EmpresasApi\EmpresasApi.Infra.Data\bin\Debug\net6.0\EmpresasApi.Infra.Data.pdb
+C:\Users\Felipe\Documents\Curso C# Coti\Módulo 3 - EntityFramework\Aula 20 prática\EmpresasApi\EmpresasApi.Infra.Data\obj\Debug\net6.0\EmpresasApi.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Felipe\Documents\Curso C# Coti\Módulo 3 - EntityFramework\Aula 20 prática\EmpresasApi\EmpresasApi.Infra.Data\obj\Debug\net6.0\EmpresasApi.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Documents\Curso C# Coti\Módulo 3 - EntityFramework\Aula 20 prática\EmpresasApi\EmpresasApi.Infra.Data\obj\Debug\net6.0\EmpresasApi.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Felipe\Documents\Curso C# Coti\Módulo 3 - EntityFramework\Aula 20 prática\EmpresasApi\EmpresasApi.Infra.Data\obj\Debug\net6.0\EmpresasApi.Infra.Data.AssemblyInfo.cs
+C:\Users\Felipe\Documents\Curso C# Coti\Módulo 3 - EntityFramework\Aula 20 prática\EmpresasApi\EmpresasApi.Infra.Data\obj\Debug\net6.0\EmpresasApi.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Documents\Curso C# Coti\Módulo 3 - EntityFramework\Aula 20 prática\EmpresasApi\EmpresasApi.Infra.Data\obj\Debug\net6.0\EmpresasApi.Infra.Data.dll
+C:\Users\Felipe\Documents\Curso C# Coti\Módulo 3 - EntityFramework\Aula 20 prática\EmpresasApi\EmpresasApi.Infra.Data\obj\Debug\net6.0\refint\EmpresasApi.Infra.Data.dll
+C:\Users\Felipe\Documents\Curso C# Coti\Módulo 3 - EntityFramework\Aula 20 prática\EmpresasApi\EmpresasApi.Infra.Data\obj\Debug\net6.0\EmpresasApi.Infra.Data.pdb
+C:\Users\Felipe\Documents\Curso C# Coti\Módulo 3 - EntityFramework\Aula 20 prática\EmpresasApi\EmpresasApi.Infra.Data\obj\Debug\net6.0\EmpresasApi.Infra.Data.genruntimeconfig.cache
+C:\Users\Felipe\Documents\Curso C# Coti\Módulo 3 - EntityFramework\Aula 20 prática\EmpresasApi\EmpresasApi.Infra.Data\obj\Debug\net6.0\ref\EmpresasApi.Infra.Data.dll
+D:\Material\Módulo 3 - EntityFramework\Aula 20 prática\EmpresasApi\EmpresasApi.Infra.Data\bin\Debug\net6.0\EmpresasApi.Infra.Data.deps.json
+D:\Material\Módulo 3 - EntityFramework\Aula 20 prática\EmpresasApi\EmpresasApi.Infra.Data\bin\Debug\net6.0\EmpresasApi.Infra.Data.runtimeconfig.json
+D:\Material\Módulo 3 - EntityFramework\Aula 20 prática\EmpresasApi\EmpresasApi.Infra.Data\bin\Debug\net6.0\EmpresasApi.Infra.Data.dll
+D:\Material\Módulo 3 - EntityFramework\Aula 20 prática\EmpresasApi\EmpresasApi.Infra.Data\bin\Debug\net6.0\EmpresasApi.Infra.Data.pdb
+D:\Material\Módulo 3 - EntityFramework\Aula 20 prática\EmpresasApi\EmpresasApi.Infra.Data\obj\Debug\net6.0\EmpresasApi.Infra.Data.csproj.AssemblyReference.cache
+D:\Material\Módulo 3 - EntityFramework\Aula 20 prática\EmpresasApi\EmpresasApi.Infra.Data\obj\Debug\net6.0\EmpresasApi.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Material\Módulo 3 - EntityFramework\Aula 20 prática\EmpresasApi\EmpresasApi.Infra.Data\obj\Debug\net6.0\EmpresasApi.Infra.Data.AssemblyInfoInputs.cache
+D:\Material\Módulo 3 - EntityFramework\Aula 20 prática\EmpresasApi\EmpresasApi.Infra.Data\obj\Debug\net6.0\EmpresasApi.Infra.Data.AssemblyInfo.cs
+D:\Material\Módulo 3 - EntityFramework\Aula 20 prática\EmpresasApi\EmpresasApi.Infra.Data\obj\Debug\net6.0\EmpresasApi.Infra.Data.csproj.CoreCompileInputs.cache
+D:\Material\Módulo 3 - EntityFramework\Aula 20 prática\EmpresasApi\EmpresasApi.Infra.Data\obj\Debug\net6.0\EmpresasApi.Infra.Data.dll
+D:\Material\Módulo 3 - EntityFramework\Aula 20 prática\EmpresasApi\EmpresasApi.Infra.Data\obj\Debug\net6.0\refint\EmpresasApi.Infra.Data.dll
+D:\Material\Módulo 3 - EntityFramework\Aula 20 prática\EmpresasApi\EmpresasApi.Infra.Data\obj\Debug\net6.0\EmpresasApi.Infra.Data.pdb
+D:\Material\Módulo 3 - EntityFramework\Aula 20 prática\EmpresasApi\EmpresasApi.Infra.Data\obj\Debug\net6.0\EmpresasApi.Infra.Data.genruntimeconfig.cache
+D:\Material\Módulo 3 - EntityFramework\Aula 20 prática\EmpresasApi\EmpresasApi.Infra.Data\obj\Debug\net6.0\ref\EmpresasApi.Infra.Data.dll
